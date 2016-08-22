@@ -812,4 +812,4 @@ void Example::Draw()
             glFlush();
 }
 
-/*Learing frome Book*/
+/*Take it for learning OpenGL*/
